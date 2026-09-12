@@ -190,21 +190,22 @@ h3 {
     width: 560px;
 }
 .natural-subtitle {
-    font-family: "Exo 2" sans-serif;
+    font-family: "Exo 2", sans-serif;
     font-weight: 500;
     font-size: 24px;
     color: #779611;
     margin-bottom: 15px;
 }
 .natural-title {
-    font-family: "Exo 2" sans-serif;
+    font-family: "Exo 2", sans-serif;
     font-weight: 600;
     font-size: 48px;
     color: #779611;
     margin-bottom: 35px;
 }
-.natural-img {
+.natural {
     margin-top: 114px;
     margin-bottom: 114px;
 }
+
 
